@@ -1,0 +1,10 @@
+# What is Redis
+   * Open Source , in memory data store used as a database,cache,streaming engine and message brocker.
+   
+   * Provides data structures such as strings,hashes,lists,sets,sorted sets with range queries.bitmaps,hyperloglogs,geospatial indexes & streams.
+
+   * Redis stands for Remote Dictionary Server.
+
+   * NoSql key/value storage used as application cache or quick-response database
+
+   * Redis caching leverages its in-memory storage capabilities, allowing applications to store and retrieve data with extremely low letency.
